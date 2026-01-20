@@ -1,10 +1,13 @@
 ## AI System Engineer Portfolio
 
-This portfolio demonstrates my ability to design,
-deploy, and operate production-grade AI systems.
+1. Project Summary (Impact-first)
+2. Engineering Problem Statement
+3. Architecture & Design Decisions
+4. Technology Stack (Why these?)
+5. Deployment & Operations
+6. Reliability & Failure Handling
+7. Troubleshooting (Real Incidents)
+8. Security & Production Readiness
+9. Scalability & Future Work
+10. Key Engineering Takeaways
 
-Key strengths:
-- GPU-based AI infrastructure
-- Kubernetes & MLOps
-- Secure, air-gapped environments
-- Operational excellence
