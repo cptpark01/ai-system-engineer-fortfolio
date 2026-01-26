@@ -18,3 +18,14 @@ sudo apt update
 
 Outcome
 * Successfully installed net-tools
+
+
+## Experience Resolving a Virtualization Conflict Issue
+
+- Encountered an AMD-V conflict error (VERR_SVM_IN_USE) while running VirtualBox
+
+- Diagnosed that the KVM kernel module was occupying the hardware virtualization resources
+
+- Resolved the issue by disabling KVM via modprobe
+
+- Gained an understanding that KVM and VirtualBox cannot share hardware virtualization resources simultaneously
